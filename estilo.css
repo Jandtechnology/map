@@ -1,0 +1,6 @@
+/* Establece la altura del elemento con el ID 'map' en 500px. */
+#map {
+	height: 500px;
+	/* Establece el ancho del elemento con el ID 'map' al 100% del ancho disponible en su contenedor. */
+	width: 100%;
+}
